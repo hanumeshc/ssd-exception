@@ -1,0 +1,147 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "vulnerabilities": [
+    {
+      "id": "CVE-2019-14540",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2020-9547",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2024-1597",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2019-16335",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2021-3918",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2018-19362",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2023-45288",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2024-30171",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "CVE-2017-7658",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    },
+    {
+      "id": "Auto-merge should be disabled",
+      "analysis": {
+        "state": "not_affected",
+        "justification": "code_not_reachable",
+        "response": ["will_not_fix", "update"],
+        "detail": "The vulnerable function is not called"
+      },
+      "affects": [
+        {
+          "ref": "pkg:npm/minimatch@0.3.0?file_path=app%2Fnode_modules%2Fmocha%2Fnode_modules%2Fminimatch%2Fpackage.json"
+        }
+      ]
+    }
+  ]
+}
